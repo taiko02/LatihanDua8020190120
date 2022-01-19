@@ -4,4 +4,4 @@
 
 <b>Nama : Tomi saputra</b><br>
 <b>NIM 	&nbsp;&nbsp;&nbsp;: 8020190120</b><br>
-<b>Kelas &nbsp;&nbsp;: 05PT5</b><br>
+<b>Kelas &nbsp;: 05PT5</b><br>
